@@ -2,7 +2,7 @@
 
 Head of AI Engineering at [Xelix](https://xelix.com), London. I lead the build of AI-powered enterprise software, from LLM agents to the infrastructure that runs them in production.
 
-Most of my day-to-day code lives in private repositories on my work account, **[@paul-xelix](https://github.com/paul-xelix)**. Its public contribution graph shows the activity.
+All of my day-to-day code since 2023 lives in private repositories on my work account, **[@paul-xelix](https://github.com/paul-xelix)**. Its public contribution graph shows the activity.
 
 ## What I work on
 
